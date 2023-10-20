@@ -10,4 +10,4 @@ Instructions:
 Data source:
 [rebrickable](https://rebrickable.com/downloads/)
 
-The purpose of this project is to get familiar with Python and be able to answer analitical questions
+The purpose of this project is to get familiar with Python and be able to answer analytical questions
